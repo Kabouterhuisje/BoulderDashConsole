@@ -8,7 +8,7 @@ namespace BoulderDash_DennisTijbosch_StijnHendriks.Enums
 {
     public enum ElementType
     {
-        Tile,
+        Block,
         Rockfort,
         Mud,
         Boulder,

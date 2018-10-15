@@ -12,7 +12,7 @@ namespace BoulderDash_DennisTijbosch_StijnHendriks.Enums
         Falling,
         Alive,
         Dying,
-        Killed,
+        Death,
         Winning
     }
 }
