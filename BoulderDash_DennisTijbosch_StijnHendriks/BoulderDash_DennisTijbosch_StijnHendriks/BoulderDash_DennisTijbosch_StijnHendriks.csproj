@@ -47,7 +47,7 @@
     <Compile Include="Enums\ElementType.cs" />
     <Compile Include="Enums\Movement.cs" />
     <Compile Include="Enums\ElementState.cs" />
-    <Compile Include="LevelGenerator.cs" />
+    <Compile Include="Models\LevelGenerator.cs" />
     <Compile Include="Models\Boulder.cs" />
     <Compile Include="Models\Diamond.cs" />
     <Compile Include="Models\Element.cs" />
