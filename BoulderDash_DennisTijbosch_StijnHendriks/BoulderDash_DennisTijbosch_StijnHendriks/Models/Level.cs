@@ -7,6 +7,23 @@ namespace BoulderDash_DennisTijbosch_StijnHendriks.Models
     {
         public Block Block { get; set; }
         public Rockford rPosition { get; set; }
+
+        public Block Block1
+        {
+            get => default(Block);
+            set
+            {
+            }
+        }
+
+        public Rockford Rockford
+        {
+            get => default(Rockford);
+            set
+            {
+            }
+        }
+
         private DateTime startTime;
         private DateTime stopTime;
         private Timer timer;

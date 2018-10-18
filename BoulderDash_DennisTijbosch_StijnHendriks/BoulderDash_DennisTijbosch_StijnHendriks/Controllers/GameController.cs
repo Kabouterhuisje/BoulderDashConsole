@@ -68,5 +68,29 @@ namespace BoulderDash_DennisTijbosch_StijnHendriks.Controllers
             _output.displayFinalScreen(game.rockford.Score);
             _input.waitForInput();
         }
+
+        public Output Output
+        {
+            get => default(Output);
+            set
+            {
+            }
+        }
+
+        public Input Input
+        {
+            get => default(Input);
+            set
+            {
+            }
+        }
+
+        public Game Game
+        {
+            get => default(Game);
+            set
+            {
+            }
+        }
     }
 }
