@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Program" Collapsed="true">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.LevelGenerator" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAgAAAAAAIAAAAxAAAAABAAACAABACAACAAA=</HashCode>
+      <FileName>Models\LevelGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Views.Output" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAEAAAAABAAAAAAgAAAAAAMA=</HashCode>
+      <FileName>Views\Output.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Views.Input" Collapsed="true">
+    <Position X="16.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAEAAAIAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Wall" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Block" Collapsed="true">
+    <Position X="14" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAgEAAAAAAQAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Models\Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Boulder" Collapsed="true">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Boulder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Diamond" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Diamond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Element" Collapsed="true">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Exit" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Exit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.FireFly" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FireFly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.FloatingElement" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FloatingElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Game" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAABAAgAAQgBAAAAAEAAAEBBABAAAREAAA=</HashCode>
+      <FileName>Models\Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Level" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Level" Collapsed="true">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAgAAAAAAAAAAAggAAAAAAAAEAACAAAAAAAAQAA=</HashCode>
+      <FileName>Models\Level.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Block1" />
+      <Property Name="Rockford" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.MoveableElement" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACBAAAEAAAAA=</HashCode>
+      <FileName>Models\MoveableElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Mud" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Rockford" Collapsed="true">
+    <Position X="11.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAjAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Rockfort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.StagnantElement" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\StagnantElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Steelwall" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Steelwall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Controllers.GameController" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAIAAAAEBgAAAAIABAAAAAAAAA=</HashCode>
+      <FileName>Controllers\GameController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Output" />
+      <Property Name="Input" />
+      <Property Name="Game" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="BoulderDash_DennisTijbosch_StijnHendriks.Enums.Movement" Collapsed="true">
+    <Position X="22.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Enums\Movement.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BoulderDash_DennisTijbosch_StijnHendriks.Enums.ElementState" Collapsed="true">
+    <Position X="18.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAABAAAAAAAAAAAAAAAEQgAACAAAAAAAA=</HashCode>
+      <FileName>Enums\ElementState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BoulderDash_DennisTijbosch_StijnHendriks.Enums.ElementType" Collapsed="true">
+    <Position X="20.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAgBAAAAAAAAAAAAAAAAAAgQCIAAAgAAAAAA=</HashCode>
+      <FileName>Enums\ElementType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
