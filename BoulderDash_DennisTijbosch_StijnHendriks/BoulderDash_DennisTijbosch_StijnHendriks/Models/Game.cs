@@ -10,6 +10,14 @@ namespace BoulderDash_DennisTijbosch_StijnHendriks.Models
         public Rockford rockford { get; set; }
         public bool isFinished { get; set; }
 
+        public Level Level
+        {
+            get => default(Level);
+            set
+            {
+            }
+        }
+
         public Game()
         {
             isFinished = false;

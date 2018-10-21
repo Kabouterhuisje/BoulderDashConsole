@@ -10,6 +10,14 @@ namespace BoulderDash_DennisTijbosch_StijnHendriks
 {
     class Program
     {
+        public GameController GameController
+        {
+            get => default(GameController);
+            set
+            {
+            }
+        }
+
         static void Main(string[] args)
         {
             Input inputView = new Input();
