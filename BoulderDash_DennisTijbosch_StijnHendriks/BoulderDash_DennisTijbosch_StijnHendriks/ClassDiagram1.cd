@@ -127,7 +127,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.LevelGenerator" Collapsed="true">
-    <Position X="7" Y="5.5" Width="1.5" />
+    <Position X="5.75" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAQAAgAAAAAAIAAAAxAAAAABAAACAABACAACAAA=</HashCode>
       <FileName>Models\LevelGenerator.cs</FileName>
