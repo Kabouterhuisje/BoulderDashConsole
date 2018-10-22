@@ -22,43 +22,43 @@
       <Property Name="Element" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Boulder" Collapsed="true">
-    <Position X="10.5" Y="10.5" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Boulder">
+    <Position X="10.25" Y="10.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Boulder.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Diamond" Collapsed="true">
-    <Position X="12.75" Y="10.5" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Diamond">
+    <Position X="12.5" Y="10.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Diamond.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Element" Collapsed="true">
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Element">
     <Position X="9.25" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
       <FileName>Models\Element.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Exit" Collapsed="true">
-    <Position X="3.75" Y="9" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Exit">
+    <Position X="3.5" Y="10.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Exit.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.FireFly" Collapsed="true">
-    <Position X="17.25" Y="9" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.FireFly">
+    <Position X="17" Y="10" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
       <FileName>Models\FireFly.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.FloatingElement" Collapsed="true">
-    <Position X="11.5" Y="9" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.FloatingElement">
+    <Position X="11.25" Y="8.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\FloatingElement.cs</FileName>
@@ -84,43 +84,43 @@
       <Property Name="Block" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.MoveableElement" Collapsed="true">
-    <Position X="13.75" Y="7.5" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.MoveableElement">
+    <Position X="13.5" Y="7" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACBAAAEAAAAA=</HashCode>
       <FileName>Models\MoveableElement.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Mud" Collapsed="true">
-    <Position X="8.25" Y="9" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Mud">
+    <Position X="8" Y="10.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Mud.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Rockford" Collapsed="true">
-    <Position X="15" Y="9" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Rockford">
+    <Position X="14.75" Y="10" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEAAAAAjAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Rockfort.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.StagnantElement" Collapsed="true">
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.StagnantElement">
     <Position X="4.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\StagnantElement.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Steelwall" Collapsed="true">
-    <Position X="1.5" Y="9" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Steelwall">
+    <Position X="1.25" Y="10.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Steelwall.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Wall" Collapsed="true">
-    <Position X="6" Y="9" Width="1.5" />
+  <Class Name="BoulderDash_DennisTijbosch_StijnHendriks.Models.Wall">
+    <Position X="5.75" Y="10.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Wall.cs</FileName>
